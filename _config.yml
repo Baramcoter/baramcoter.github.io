@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Baramcoter"
-  avatar           : "asset/avatar.jpg"
+  avatar           : "/assets/avatar.jpg"
   bio              : "4년차 .NET 개발자 입니다."
   location         : "Repulic of Korea, Incheon"
   email            :
