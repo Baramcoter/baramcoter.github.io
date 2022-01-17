@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Baramcoter의 실기노트"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "불안불안해"
 name                     : "Baramcoter"
 description              : "어서와요."
 url                      : "https://baramcoter.github.io"
