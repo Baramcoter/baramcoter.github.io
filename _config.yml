@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-dark"
+    theme                : #"github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -105,7 +105,7 @@ author:
   name             : "Baramcoter"
   avatar           : "/assets/avatar.jpg"
   bio              : "4년차 .NET 개발자 입니다."
-  location         : "Repulic of Korea, Incheon"
+  location         : "Incheon, Repulic of Korea"
   email            :
   links:
     - label: "Email"
